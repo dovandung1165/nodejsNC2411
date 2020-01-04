@@ -1,0 +1,23 @@
+{
+  "name": "week3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dovandung1165/nodejs2411.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dovandung1165/nodejs2411/issues"
+  },
+  "homepage": "https://github.com/dovandung1165/nodejs2411#readme",
+  "dependencies": {
+    "xlsx": "^0.15.3"
+  }
+}
